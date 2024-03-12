@@ -36,7 +36,7 @@ function handleYesClick() {
   titleElement.innerHTML = "Hehehe! :33";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
-  window.open("../heart.html", "_self value");
+  window.open("https://ezio321.github.io/personal/heart.html", "_self value");
 }
 
 function resizeYesButton() {
