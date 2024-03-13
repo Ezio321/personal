@@ -15,15 +15,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "Ask him/her Out",
+    "Ask her Out",
     "Valentine"
   ],
   "author": "Mrugesh Dixit",
   "modification": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
-  },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
   "dependencies": {}
 }
