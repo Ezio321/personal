@@ -14,16 +14,12 @@
     "start:darwin:linux": "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --directory --port 7777",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aa-sikkkk/Ask-him/her-out.git"
-  },
   "keywords": [
     "Ask him/her Out",
     "Valentine"
   ],
-  "author": "Afiur Rahman Fahim",
-  "modification": "Aa-sikk",
+  "author": "Mrugesh Dixit",
+  "modification": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/faahim/happy-birthday/issues"
